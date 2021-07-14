@@ -1,6 +1,6 @@
 # Scaling-Analysis-of-the-CFOSAT-Along-Track-Wind-and-Wave-Data
 This repository provides the code for the following paper
-Scaling Analysis of the China France Oceanography SATellite Along-Track Wind and Wave Data published in Journal of Geophysical Research: Oceans.
+"Scaling Analysis of the China France Oceanography SATellite Along-Track Wind and Wave Data" published in Journal of Geophysical Research: Oceans.
 
 If you use our code to calculate the Fourier power spectrum, please cite the following paper by Gao et al., 2021
 
